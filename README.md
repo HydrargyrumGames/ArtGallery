@@ -1,5 +1,5 @@
 # Blender 3D Render Art Gallery
-### 🖼️This is an Art Gallery Exhibiting all of the Blender3D Renders I've made over the past years!
+## 🖼️This is an Art Gallery Exhibiting all of the Blender3D Renders I've made over the past years!
 
 ## 1. Hydrargyrum Games Company Logo [Rendered in Blender Cycles]
 
