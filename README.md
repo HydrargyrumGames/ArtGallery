@@ -1,5 +1,5 @@
 # Blender 3D Render Art Gallery
-## 🖼️This is an Art Gallery Exhibiting all of the Blender3D Renders I've made over the past years!
+## 🖼️This is an Art Gallery Exhibiting the Best of the Blender3D Renders I've made over the past years!
 
 ## 1. Hydrargyrum Games Company Logo [Rendered in Blender Cycles]
 
@@ -40,9 +40,4 @@ https://user-images.githubusercontent.com/102142095/159788903-10fb3082-9d1b-4f5d
 ## 10. ASUSTek TUF Branding Logo [Rendered in Blender Cycles]
 
 ![TUF](https://user-images.githubusercontent.com/102142095/159790717-3617e6b7-1887-4141-b8c2-e0f743ec655a.png)
-
-## 11. PBR Lab Glassware Render [Rendered in Blender Cycles]
-
-![TTube f](https://user-images.githubusercontent.com/102142095/159791136-2fffb3d4-a8f0-4254-aa6f-cec7525386ed.png)
-
 
