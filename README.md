@@ -3,7 +3,7 @@
 
 ## 1. Hydrargyrum Games Company Logo [Rendered in Blender Cycles]
 
-![IMG-20211211-WA0007](https://user-images.githubusercontent.com/102142095/159776652-ce77ac22-82b8-4823-9977-518c0d741a6e.jpg)
+![IMG_20220311_223136_052](https://user-images.githubusercontent.com/102142095/159856579-b02b10fb-10c2-4b84-8d12-98f1f5a8b15b.jpg)
 
 ## 2. Logo of the First Ever Programming Language I Got to Learn, C# [Rendered in Blender EEVEE]
 
